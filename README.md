@@ -48,38 +48,20 @@ const developer = {
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📈 Contribution Graph
 
-<img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=lakshiitakalyanasundaram&theme=react-dark&hide_border=true" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshiitakalyanasundaram&theme=nord&column=7&no-frame=true" />
 </p>
 
-## 🎧 Currently Listening To
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=novatorem" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
   
   ### Show some ❤️ by starring repositories that you find interesting!
   
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lakshiitakalyanasundaram/lakshiitakalyanasundaram/blob/output/github-contribution-grid-snake.svg)
   
 </div>
