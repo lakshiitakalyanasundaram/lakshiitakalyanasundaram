@@ -21,12 +21,10 @@ const developer = {
   name: "K. Lakshiita",
   location: "Bengaluru, India",
   languages: ["Python","C"],
-  tools: ["React", "Node.js", "Git", "Docker"],
-  Iamcurrentlyworkingon: ["LLMs", "GenAI", "Deep Learning"],
+  I am currently working on: ["LLMs", "GenAI", "Deep Learning"],
   funFact: "At this point, I'm 80% caffeine and 20% logic."
 };
 ```
-
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 ## 📊 GitHub Stats
