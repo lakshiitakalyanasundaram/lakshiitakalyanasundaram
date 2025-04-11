@@ -30,38 +30,10 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshiitakalyanasundaram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 🛠️ Projects I'm Proud Of
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://via.placeholder.com/500x300" alt="Project 1" width="100%" />
-        </a>
-        <p align="center">
-          A brief description of your amazing project and what technologies you used.
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://via.placeholder.com/500x300" alt="Project 2" width="100%" />
-        </a>
-        <p align="center">
-          Another fantastic project that showcases your skills and creativity.
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 🔥 Skills & Technologies
 
