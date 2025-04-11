@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/lakshiita-kalyanasundaram-651a7b275/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a>
     <a href="mailto:lakshiitakalyanasundaram@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"></a>
   </p>
-  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakshiitakalyanasundaram &theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   
