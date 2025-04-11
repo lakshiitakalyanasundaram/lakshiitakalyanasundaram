@@ -14,7 +14,7 @@
   
 </div>
 
-## 💫 About Me
+## About Me
 
 ```javascript
 const developer = {
