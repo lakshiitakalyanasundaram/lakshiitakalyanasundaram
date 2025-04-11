@@ -62,6 +62,7 @@ const developer = {
   
   ### Show some ❤️ by starring repositories that you find interesting!
   
-  ![Snake animation](https://github.com/lakshiitakalyanasundaram/lakshiitakalyanasundaram/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lakshiitakalyanasundaram/lakshiitakalyanasundaram/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
