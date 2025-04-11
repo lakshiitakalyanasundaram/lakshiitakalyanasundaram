@@ -1,16 +1,16 @@
 <div align="center">
   
-  # 👋 Hello, World! I'm [Your Name]
+  # 👋 Hello, World! I'm Lakshiita 
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Software+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing Animation" />
   
   <p>
-    <a href="https://twitter.com/yourusername"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yourusername?style=for-the-badge&logo=twitter&color=1DA1F2"></a>
-    <a href="https://www.linkedin.com/in/yourusername/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a>
-    <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"></a>
+    
+    <a href="https://www.linkedin.com/in/lakshiita-kalyanasundaram-651a7b275/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue"></a>
+    <a href="mailto:lakshiitakalyanasundaram@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"></a>
   </p>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakshiitakalyanasundaram&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
