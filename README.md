@@ -9,7 +9,7 @@
     <a href="mailto:lakshiitakalyanasundaram@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"></a>
   </p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakshiitakalyanasundaram&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakshiitakalyanasundaram &theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   
 </div>
@@ -18,13 +18,12 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
-  location: "Your City, Country",
-  role: "Software Developer",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "HTML/CSS"],
-  tools: ["React", "Node.js", "Express", "MongoDB", "Git", "Docker"],
-  currentlyLearning: ["AWS", "GraphQL", "Kubernetes"],
-  funFact: "I debug with console.log() and refuse to apologize for it!"
+  name: "K. Lakshiita",
+  location: "Bengaluru, India",
+  languages: ["Python","C"],
+  tools: ["React", "Node.js", "Git", "Docker"],
+  Iamcurrentlyworkingon: ["LLMs", "GenAI", "Deep Learning"],
+  funFact: "At this point, I'm 80% caffeine and 20% logic."
 };
 ```
 
