@@ -17,7 +17,6 @@
 </p>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lakshiitakalyanasundaram&theme=dark-smoky)
 
   
   
