@@ -17,7 +17,8 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshiitakalyanasundaram&theme=dark-smoky)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakshiitakalyanasundaram&theme=dark-smoky)
+
   
   
 </div>
