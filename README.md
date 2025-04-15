@@ -2,7 +2,7 @@
   
   # 👋 Hello, World! I'm Lakshiita 
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Software+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Software+Developer;Machine+Learning+Engineer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing Animation" />
   
   <p>
   <a href="https://www.linkedin.com/in/lakshiita-kalyanasundaram-651a7b275/">
