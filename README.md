@@ -92,11 +92,6 @@ const developer = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshiitakalyanasundaram&theme=react-dark&hide_border=true" width="100%"/>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshiitakalyanasundaram&theme=nord&column=7&no-frame=true" />
-</p>
 
 
   
